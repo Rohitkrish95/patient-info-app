@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/patient-info-app/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/patient-info-app/static/js/main.e6460e0f.chunk.js",
+    "main.js.map": "/patient-info-app/static/js/main.e6460e0f.chunk.js.map",
+    "runtime-main.js": "/patient-info-app/static/js/runtime-main.2eff9873.js",
+    "runtime-main.js.map": "/patient-info-app/static/js/runtime-main.2eff9873.js.map",
+    "static/js/2.6c421763.chunk.js": "/patient-info-app/static/js/2.6c421763.chunk.js",
+    "static/js/2.6c421763.chunk.js.map": "/patient-info-app/static/js/2.6c421763.chunk.js.map",
+    "static/js/3.1dbe1306.chunk.js": "/patient-info-app/static/js/3.1dbe1306.chunk.js",
+    "static/js/3.1dbe1306.chunk.js.map": "/patient-info-app/static/js/3.1dbe1306.chunk.js.map",
+    "index.html": "/patient-info-app/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/patient-info-app/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.6c421763.chunk.js.LICENSE.txt": "/patient-info-app/static/js/2.6c421763.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2eff9873.js",
+    "static/js/2.6c421763.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.e6460e0f.chunk.js"
+  ]
+}
